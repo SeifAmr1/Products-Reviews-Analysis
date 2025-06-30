@@ -54,7 +54,7 @@ This project builds a **sentiment analysis model** using **LSTM (Long Short-Term
 
 
 
-### 📌 Dependencies:
+### Dependencies:
 
 * `pandas`
 * `scikit-learn`
@@ -63,7 +63,7 @@ This project builds a **sentiment analysis model** using **LSTM (Long Short-Term
 
 ---
 
-### 🔧 Notes:
+### Notes:
 
 * Uses only 2 Optuna trials for quick demonstration — **increase `n_trials`** for better tuning in production.
 * LSTM is ideal for handling sequential data like text due to its ability to retain contextual memory.
